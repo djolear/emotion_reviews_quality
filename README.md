@@ -4,9 +4,11 @@ This repository contains code for a project examining the relationship between e
 
 ### Results
 
-For a high-level description of the project and our findings, please [click here](https://github.com/djolear/gallup_rs/blob/main/results/main.md).
+For a high-level description of the project and our findings, please [click here](https://github.com/djolear/emotion_reviews_quality/blob/main/results/main.md).
 
 ### Dataset Details
+
+To generate this dataset, we collected data from the Consumer Reports website for all products that were likely to be sold on Amazon.com (e.g., excluding cars, washing machines). Next, we created a webscraper to scrape product information and user reviews for these products from Amazon.com.
 
 ### Folder Structure
 
